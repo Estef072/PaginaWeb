@@ -1,6 +1,6 @@
 import React from 'react';
 import './Parte6.css';
-import logo from './images/logo.png';
+
 
 
 class Parte6 extends React.Component {
@@ -8,9 +8,9 @@ class Parte6 extends React.Component {
         return(
             <div  className = 'final'>All rights reserved,  ©  2010  -2018 by Jens Franke  Gestaltung:
                 
-                    <a href="https://www.ulfgermann.de/">UlfGermann</a>
-                    <a href="https://www.lebensraum-eilenriede.de/impressum.html">Impressum</a>
-                    <a href="https://www.lebensraum-eilenriede.de/datenschutzerklaerung.html">Datenschutzerklaerung</a>
+                <a href="https://www.ulfgermann.de/">UlfGermann</a>
+                <a href="https://www.lebensraum-eilenriede.de/impressum.html">Impressum</a>
+                <a href="https://www.lebensraum-eilenriede.de/datenschutzerklaerung.html">Datenschutzerklaerung</a>
 
             
 
@@ -18,7 +18,7 @@ class Parte6 extends React.Component {
             
 
             
-        )
+        );
     }
 }
 

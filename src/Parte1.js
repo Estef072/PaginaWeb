@@ -7,8 +7,8 @@ class Parte1 extends React.Component {
     render() {
         return(
             <div  className = 'logo'>
-               <img src={logo} alt='logo' />
-               <ul className='seleccion'>
+                <img src={logo} alt='logo' />
+                <ul className='seleccion'>
                
                     <a href ="#Making-of" >MAKING-OF </a>
                     <a href="#Presse">PRESEE </a>
@@ -16,13 +16,13 @@ class Parte1 extends React.Component {
                     <a href="#Sponsoren">SPONSOREN </a>
                     <a href="#Gps">GPS-SPAZIERGANG</a>
                     
-               </ul>
+                </ul>
 
             </div>
             
 
             
-        )
+        );
     }
 }
 

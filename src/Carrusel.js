@@ -1,19 +1,19 @@
 import React from 'react';
 import './Carrusel.css';
-import fotoP from './images/fotoP.jpg'
-import january from './images/january.jpg'
-import february from './images/february.jpg'
-import march from './images/march.jpg'
-import april from './images/april.jpg'
-import may from './images/may.jpg'
-import june from './images/june.jpg'
-import july from './images/july.jpg'
-import august from './images/august.jpg'
-import sepptember from './images/sepptember.jpg'
-import october from './images/october.jpg'
-import november from './images/november.jpg'
-import december from './images/december.jpg'
-import separador from './images/separador.png'
+import fotoP from './images/fotoP.jpg';
+import january from './images/january.jpg';
+import february from './images/february.jpg';
+import march from './images/march.jpg';
+import april from './images/april.jpg';
+import may from './images/may.jpg';
+import june from './images/june.jpg';
+import july from './images/july.jpg';
+import august from './images/august.jpg';
+import sepptember from './images/sepptember.jpg';
+import october from './images/october.jpg';
+import november from './images/november.jpg';
+import december from './images/december.jpg';
+import separador from './images/separador.png';
 
 class Carrusel extends React.Component {
     render() {
@@ -62,8 +62,8 @@ class Carrusel extends React.Component {
                 </div>
 
                 <div>
-                    <ul class= 'separador'>
-                    <img src={separador} alt='Separador' />
+                    <ul className='separador'>
+                        <img src={separador} alt='Separador' />
                     </ul>  
                 </div>
 

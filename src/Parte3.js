@@ -36,8 +36,8 @@ class Parte3 extends React.Component {
                             <il >
                                 <div className='link1'>
                                     <b>Spaziergang #1</b>
-                                    <a href="https://www.gps-tour.info/de/touren/detail.69763.html" target="_blank" title="Spaziergang #1 auf GPS-Tour.info ansehen">Auf GPS-Tour.info ansehen</a>
-                                    <a href="gps/lebensraum_eilenriede_tour_1.zip" target="_blank" title="Spaziergang #1 GPX-als Datei herunterladen">GPX-Datei herunterladen</a>
+                                    <a href='https://www.gps-tour.info/de/touren/detail.69763.html' target='blank' title="Spaziergang #1 auf GPS-Tour.info ansehen">Auf GPS-Tour.info ansehen</a>
+                                    <a href="gps/lebensraum_eilenriede_tour_1.zip" target='_blank' title='Spaziergang #1 GPX-als Datei herunterladen'>GPX-Datei herunterladen</a>
                                 </div>
                             </il>
 
@@ -45,8 +45,8 @@ class Parte3 extends React.Component {
                                 <il className='link2'>
                                     <il>
                                         <b>Spaziergang #2</b>
-                                        <a href="https://www.gps-tour.info/de/touren/detail.71647.html" target="_blank" title="1">Auf GPS-Tour.info ansehen</a>
-                                        <a href="https://www.gps-tour.info/de/touren/detail.71647.html" target="_blank" title="2">Auf GPS-Tour.info ansehen</a>
+                                        <a href='https://www.gps-tour.info/de/touren/detail.71647.html' target='blank' title="1">Auf GPS-Tour.info ansehen</a>
+                                        <a href='https://www.gps-tour.info/de/touren/detail.71647.html' target='blank' title='2'>Auf GPS-Tour.info ansehen</a>
 
                                     </il>
                                     
@@ -54,23 +54,18 @@ class Parte3 extends React.Component {
                                 </il>
                            
                             </div>
-                        <div />
-                    </div>
+                            <div />
+                        </div>
 
                         
-				        
-                            
-                        
-                        
-                    
-                    
+
                       
                     </div>
                 </div>
                 <div>
-                    <ul class= 'separador'>
+                    <ul className='separador'>
                         <img src={separador} alt='Separador' />
-                        </ul>  
+                    </ul>  
                 </div>
                         
             

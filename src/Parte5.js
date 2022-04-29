@@ -1,8 +1,8 @@
 import React from 'react';
 import './Parte5.css';
 import separador from './images/separador.png';
-import coso from './images/coso.png'
-import coso2 from './images/coso2.png'
+import coso from './images/coso.png';
+import coso2 from './images/coso2.png';
 
 class Parte5 extends React.Component {
     render() {
@@ -16,17 +16,17 @@ class Parte5 extends React.Component {
 
                 </div>  
                 <div  className = "row">
-                   <div className='columna01'>
+                    <div className='columna01'>
                        
-                            <ul className="grid-text2">Der Kalender wurde klimaneutral und umweltfreundlich von der Druckerei Münstermann aus Hannover auf FSC-zertifiziertem Papier gedruckt.
-                            </ul>
+                        <ul className="grid-text2">Der Kalender wurde klimaneutral und umweltfreundlich von der Druckerei Münstermann aus Hannover auf FSC-zertifiziertem Papier gedruckt.
+                        </ul>
                             
-                                <ul className="grid-text2">Der FSC ist eine gemeinnützige und unabhängige internationale Organisation zur Förderung verantwortungsvoller Waldwirtschaft. Alle FSC-zertifizierten Papiere stammen aus nachhaltig bewirtschafteten Wäldern und anderen kontrollierten Quellen. Durch die Verwendung unterstützen wir direkt eine umweltgerechte, sozialverträgliche und wirtschaftlich tragfähige Waldbewirtschaftung.
+                        <ul className="grid-text2">Der FSC ist eine gemeinnützige und unabhängige internationale Organisation zur Förderung verantwortungsvoller Waldwirtschaft. Alle FSC-zertifizierten Papiere stammen aus nachhaltig bewirtschafteten Wäldern und anderen kontrollierten Quellen. Durch die Verwendung unterstützen wir direkt eine umweltgerechte, sozialverträgliche und wirtschaftlich tragfähige Waldbewirtschaftung.
                 
-                                </ul>
-                                    <ul className="grid-text2">Darüber hinaus findet ein CO2-Ausgleich für die Produktion dieses Kalenders statt. Das Projekt entspricht dem „Gold Standard“ und unterstützt das „Windenergieprojekt in der Marmara-Region“ mit der Ident-Nr.
+                        </ul>
+                        <ul className="grid-text2">Darüber hinaus findet ein CO2-Ausgleich für die Produktion dieses Kalenders statt. Das Projekt entspricht dem „Gold Standard“ und unterstützt das „Windenergieprojekt in der Marmara-Region“ mit der Ident-Nr.
                 
-                                    </ul>
+                        </ul>
 
                        
                         
@@ -45,7 +45,7 @@ class Parte5 extends React.Component {
                        
                         
 
-                   </div>
+                    </div>
                     
  
                     
@@ -55,9 +55,9 @@ class Parte5 extends React.Component {
 
                 
                 <div>
-                    <ul class= 'separador'>
+                    <ul className='separador'>
                         <img src={separador} alt='Separador' />
-                        </ul>  
+                    </ul>  
                 </div>
                         
             

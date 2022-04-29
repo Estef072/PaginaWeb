@@ -7,6 +7,7 @@ import Parte2 from './Parte2'
 import Parte3 from "./Parte3";
 import Parte4 from "./Parte4";
 import Parte5 from "./Parte5";
+import Parte6 from "./Parte6";
 
 
 class Pagina extends React.Component {
@@ -42,6 +43,11 @@ class Pagina extends React.Component {
 
                 <div>
                     <Parte5></Parte5>
+
+                </div>
+
+                <div>
+                    <Parte6></Parte6>
 
                 </div>
             </div>

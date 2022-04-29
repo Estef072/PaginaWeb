@@ -1,22 +1,18 @@
 import React from 'react';
-import './Parte1.css';
+import './Parte6.css';
 import logo from './images/logo.png';
 
 
-class Parte1 extends React.Component {
+class Parte6 extends React.Component {
     render() {
         return(
-            <div  className = 'logo'>
-               <img src={logo} alt='logo' />
-               <ul className='seleccion'>
-               
-                    <a href ="#" >MAKING-OF </a>
-                    <a href="#">PRESEE </a>
-                    <a href="#">JENS FRANKE </a>
-                    <a href="#">SPONSOREN </a>
-                    <a href="#">GPS-SPAZIERGANG</a>
-                    
-               </ul>
+            <div  className = 'final'>All rights reserved,  ©  2010  -2018 by Jens Franke  Gestaltung:
+                
+                    <a href="https://www.ulfgermann.de/">UlfGermann</a>
+                    <a href="https://www.lebensraum-eilenriede.de/impressum.html">Impressum</a>
+                    <a href="https://www.lebensraum-eilenriede.de/datenschutzerklaerung.html">Datenschutzerklaerung</a>
+
+            
 
             </div>
             
@@ -26,4 +22,4 @@ class Parte1 extends React.Component {
     }
 }
 
-export default Parte1;
+export default Parte6;

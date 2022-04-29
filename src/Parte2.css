@@ -4,8 +4,11 @@
     font-size: 12px;
     text-align: justify;
     font-weight: bold;
+    animation: texto 10s 1 steps (30), cursor 10s infinite;
 }
 
+@keyframes texto {0% {width: 0}}
+@keyframes cursor{ 50% {border-color: transparent}}
 
 
 .separador{

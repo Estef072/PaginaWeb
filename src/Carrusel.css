@@ -1,0 +1,24 @@
+.carrusel {
+    text-align : center;
+    
+
+    
+  }
+.carrusel-fotos {
+    width: auto;
+    display: flex;
+    overflow-x: scroll;
+}
+  
+  
+.separador{
+  padding: 10px;
+  
+
+}
+.menu{
+  padding: 10px;
+  text-align : center;
+  
+
+}

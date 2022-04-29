@@ -1,0 +1,16 @@
+/*!******************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/Pagina.css ***!
+  \******************************************************************/
+body{
+    background-color: #ebebe1;  
+}
+
+/*!******************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/Parte1.css ***!
+  \******************************************************************/
+body{
+    background-color: #ebebe1; margin-left: auto;  margin-right: auto; width: 900px;
+
+}
+
+

@@ -1,0 +1,57 @@
+.grid-titulo {
+    display: grid;
+    padding-right: 90px;
+    grid-template-columns: auto  auto;
+    padding: 8px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.columna01{
+    float: left;
+    width: 60%;
+    height: auto;
+
+}
+.columna02{
+    float: left;
+    width: 30%;
+    height: auto;
+    padding-left: auto;
+
+}
+.row{
+    width: 100% !important;
+    clear: both;
+}
+.grid-contenedor {
+    padding: 8px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.grid-text02 {
+    padding-right: 30px;
+    line-height:.5cm;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    text-align: justify;
+}
+.foto1 {
+    padding: 20px;
+    width: 150px;
+    height: 30px;
+}
+.foto2 {
+    padding: 20px;
+    width: 150px;
+    height: 60px;
+}
+.letra{
+    font-size: 10px;
+    font-weight: bold;
+}
+.separador{
+    padding: 1px;
+}

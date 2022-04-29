@@ -1,0 +1,23 @@
+body{
+    background-color: #ebebe1; margin-left: auto;  margin-right: auto; width: 900px;
+
+}
+.logo{
+    padding: 30px;
+    text-align : center;
+
+}
+
+a, a:active, a:visited {
+    text-decoration: none;
+    color: #323232; 
+    font-size:12px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Source Serif Pro', serif;
+    padding: 8px 8px;
+    font-weight: bold;
+    }
+a:hover { color: #b6ae51; }
+
